@@ -101,8 +101,13 @@
       <p><sm>January 2017</sm></p>
     </div>
 
+<<<<<<< HEAD
     <!-- EDIT: work line 2 -->
     <div class="col-lg-6 col-lg-offset-3">
+=======
+    <!-- EDIT: work line 1 -->
+    <div class="col-lg-6">
+>>>>>>> aadd28ebacf7c50ad19104924fe2d93b96684486
       <p class="tight"><t>Podcrust </t><br/>
         Android Podcast app<br/>
       </p>
@@ -155,17 +160,31 @@
   <div class="row">
 
     <div class="col-lg-2 col-lg-offset-1">
-      <h5>LANGUAGES AND TECHNOLOGIES</h5>
+      <h5>PROGRAMMING LANGUAGES AND TECHNOLOGIES</h5>
     </div>
+<<<<<<< HEAD
     <div> 
       <ul style="list-style-type:disc">
-        <li>Java</li>
-        <li>Python</li>
-        <li>C</li>
-        <li>HTML/CSS</li>
+        <li>Java (Proficient)</li>
+        <li>Python (Proficient)</li>
+        <li>C (Beginning)</li>
+        <li>HTML (Beginning)</li>
+        <li>CSS (Beginning)</li>
         <li>Git</li>
         <li>SVN</li>
-      </u>
+      </ul>
+    </div>
+=======
+    <ul style="list-style-type:disc">
+      <li>Java (Proficient)</li>
+      <li>Python (Proficient)</li>
+      <li>C (Beginning)</li>
+      <li>HTML (Beginning)</li>
+      <li>CSS (Beginning)</li>
+      <li>Git</li>
+      <li>SVN</li>
+    </ul>
+>>>>>>> aadd28ebacf7c50ad19104924fe2d93b96684486
   </div><!--/.row -->
   <br>
   <hr>
