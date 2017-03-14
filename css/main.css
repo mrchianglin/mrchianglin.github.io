@@ -16,6 +16,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #333;
 }
 
+ul{
+    list-style-type: disc;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+    columns: 1;
+    list-style-position: inside;
+}
+
 /* Paragraph & Typographic */
 p {
   line-height: 28px;
